@@ -6,11 +6,9 @@ File Manager = thunar
 
 Menu = bemenu (bemenu-run -b)
 
-Bar = waybar
+Bar = waybar (with a power button)
 
 Notifications = swaync
-
-Log out menu = wlogout (WIP)
 
 If you wanna "install" this just: 
 Back up your previous config, "git clone" this repo, "cp -r" all of this to .config, log out and log back in. It should work.
